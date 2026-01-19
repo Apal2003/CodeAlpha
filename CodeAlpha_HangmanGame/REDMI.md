@@ -1,1 +1,1 @@
-
+Hangman Game is a simple console-based Python game where a random word is selected and the player guesses it one letter at a time. The game includes input validation, tracks incorrect guesses, and displays the progress until the player wins or runs out of attempts. This project helps in understanding basic Python concepts and game logic.
