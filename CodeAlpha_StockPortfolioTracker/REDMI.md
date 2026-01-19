@@ -1,1 +1,1 @@
-
+Stock Portfolio Tracker is a Python-based console application that allows users to track stock investments using predefined stock prices. Users can input stock symbols and quantities, calculate total investment value, and export the portfolio summary to a CSV file for easy record keeping. This project demonstrates file handling, dictionaries, loops, and user input processing in Python.
