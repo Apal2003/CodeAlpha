@@ -1,1 +1,1 @@
-
+Basic Chatbot is a simple Python-based console application that responds to predefined user inputs. It uses conditional statements to handle greetings, common questions, and exit commands, helping beginners understand user input handling, functions, and control flow in Python.
